@@ -1,0 +1,7 @@
+root
+Traceback (most recent call last):
+  File "/Users/uym2/TAship/Spring2020/ECE208/hw-grading/hw3_sp20/homework-3-warg15/compute_diameter.py", line 129, in <module>
+    d_path,d_length = compute_diameter(tree)
+  File "/Users/uym2/TAship/Spring2020/ECE208/hw-grading/hw3_sp20/homework-3-warg15/compute_diameter.py", line 104, in compute_diameter
+    copy_path.remove(good_node.get_label())
+ValueError: list.remove(x): x not in list

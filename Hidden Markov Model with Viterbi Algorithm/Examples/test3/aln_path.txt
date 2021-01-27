@@ -1,0 +1,6 @@
+>q1
+ACgtACg
+>q2
+ACGtACg
+>q3
+ACGTacg
