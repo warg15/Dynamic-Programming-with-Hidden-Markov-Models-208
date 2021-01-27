@@ -1,2 +1,2 @@
 # Dynamic-Programming-with-Hidden-Markov-Models-208
-Work using computational methods from statistics and machine learning, applied to big genomic data. 
+Work using computational methods from statistics and machine learning, applied to big genomic data. Including dynamic programming, continuous time Markov models, hidden Markov models, statistical inference of phylogenies, sequence alignment, uncertainty (e.g., bootstrapping), and heterogeneity (e.g., phylogenetic mixture models). Specific focus on reducing Big O runtime complexity.
